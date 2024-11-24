@@ -1,0 +1,11 @@
+Project Name: MySQL Music Store Query Tool
+
+Description:
+This project is a MySQL-based application designed to run and analyze queries on a music store's database. It provides scripts and sample queries to retrieve, manipulate, and explore data such as customers, albums, artists, genres, and sales. Ideal for learning SQL or managing music store data efficiently.
+
+Key Features:
+
+Predefined SQL queries for common operations.
+Database schema setup script for the music store.
+Query examples for insights into sales, inventory, and customer behavior.
+Easy-to-use interface for running custom SQL commands.
